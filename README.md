@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Musawakhe Chipeya!
 
-🎓 **Final-year Information Technology Student**  
+🎓 **BSc Honours Computer Science and Infomation Technology**  
 📍 Johannesburg, South Africa
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and open-minded Information Technology student, eager to make a difference through software development and system analysis. Every day, I strive to learn, grow, and push boundaries—whether I'm building user-friendly apps, solving real-world problems through code, or creating digital solutions that matter.
+I'm a passionate and open-minded Computer science student, eager to make a difference through software development and system analysis. Every day, I strive to learn, grow, and push boundaries—whether I'm building user-friendly apps, solving real-world problems through code, or creating digital solutions that matter.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Java, Python, SQL, C#
+- **Languages:** Java, Python, SQL, C#, C++
 - **Web Development:** React, Node.js, HTML, CSS
-- **Databases:** Oracle DB
-- **Networking:** Cisco Packet Tracer
+- **Databases:** Oracle DB, PostGre, MySQL
+- **Networking:** Cisco
 
 ---
 
@@ -40,7 +40,7 @@ I love building things that make life easier and more enjoyable. My curiosity le
 - 🏐 Volleyball & Ice Skating  
 - 📚 Reading & Exploring AI   
 - 🎨 Graphic Design & Video Editing  
-- 🎶 Listening to Music
+- 🎶 Music
 
 ---
 
